@@ -1,0 +1,9 @@
+body {
+  background-color: tan;
+}
+.description{
+  width: 60%;
+}
+.options {
+  float: left;
+}
